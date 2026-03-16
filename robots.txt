@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://preview-1a7d6911-3650-4528-85ca-889d73c39f95.rehost.site/_html4life/sitemap.xml
+Sitemap: https://preview-a0296408-3de7-4b36-8448-d4a5dcf88af2.rehost.site/_html4life/sitemap.xml
